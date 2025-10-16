@@ -1,5 +1,5 @@
 <!-- logo image -->
-<img src="/images/logo.jpg" alt="Computational Musicology SIG Logo" style="display:block; margin:1.5rem auto; width:100%; max-width:400px; height:auto;"> 
+<img src="/computational-musicology/images/logo.jpg" alt="Computational Musicology SIG Logo" style="display:block; margin:1.5rem auto; width:100%; max-width:400px; height:auto;"> 
 
 <h1 class="main-title">Computational Musicology SIG</h1>
 <h2 class="main-title">An MTG Community on Computational Musicology and Music Understanding</h2>

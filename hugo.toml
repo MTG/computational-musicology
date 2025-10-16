@@ -3,7 +3,6 @@ languageCode = 'en-us'
 title = "MTG's Computational Musicology SIG"
 theme = 'gokarna'
 ignorelogs = ['warning-goldmark-raw-html']
-canonifyURLs = true
 
 [markup]
   [markup.goldmark]
