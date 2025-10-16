@@ -1,0 +1,35 @@
+baseURL = 'https://mtg.github.io/computational-musicology/'
+languageCode = 'en-us'
+title = "MTG's Computational Musicology SIG"
+theme = 'gokarna'
+ignorelogs = ['warning-goldmark-raw-html']
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+# Theme settings
+[params]
+  description = "An MTG community on computational musicology and music understanding."
+  author = "Music Technology Group"
+  defaultTheme = "auto"
+  ShowReadingTime = false
+  ShowShareButtons = false
+  disableHLJS = false
+[params.assets]
+  customCSS = ["css/custom.css"]
+
+
+# Menus
+[[menu.main]]
+  identifier = "talks"
+  name = "Talks"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  identifier = "about"
+  name = "About"
+  url = "/about/"
+  weight = 2
