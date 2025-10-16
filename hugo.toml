@@ -4,7 +4,6 @@ title = "MTG's Computational Musicology SIG"
 theme = 'gokarna'
 ignorelogs = ['warning-goldmark-raw-html']
 relativeURLs = true
-canonifyURLs = true
 
 [markup]
   [markup.goldmark]
