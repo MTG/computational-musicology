@@ -17,6 +17,8 @@ ignorelogs = ['warning-goldmark-raw-html']
   ShowReadingTime = false
   ShowShareButtons = false
   disableHLJS = false
+  Footer = "Music Technology Group - Universitat Pompeu Fabra"
+  Copyright = "All content © 2025 MTG-UPF"
 [params.assets]
   customCSS = ["css/custom.css"]
 
