@@ -38,6 +38,7 @@ We meet monthly on **Fridays at 3 p.m.** for seminars in which **invited speaker
   <a href="https://scholar.google.com/citations?user=F74qwNQAAAAJ&hl=en" class="link-card small">🎓 Scholar</a>
 </div>
 
+<hr class="talk-divider">
 
 ### 🗓️ 06 February 2026  
 <div class="speaker-line">
@@ -73,8 +74,8 @@ We meet monthly on **Fridays at 3 p.m.** for seminars in which **invited speaker
 </details>
 
 <div class="link-grid">
-  <a href="https://youtube.com" target="_blank" class="link-card">🎥 Recording</a>
-  <a href="https://your-slides-link" target="_blank" class="link-card">📑 Slides</a>
+  <a href="#" target="_blank" class="link-card">🎥 Recording</a>
+  <a href="#" target="_blank" class="link-card">📑 Slides</a>
 </div>
 
 <hr class="talk-divider">
@@ -97,8 +98,8 @@ We meet monthly on **Fridays at 3 p.m.** for seminars in which **invited speaker
 </details>
 
 <div class="link-grid">
-  <a href="https://youtube.com" target="_blank" class="link-card">🎥 Recording</a>
-  <a href="https://your-slides-link" target="_blank" class="link-card">📑 Slides</a>
+  <a href="#" target="_blank" class="link-card">🎥 Recording</a>
+  <a href="#" target="_blank" class="link-card">📑 Slides</a>
 </div>
 
 <hr class="talk-divider">
