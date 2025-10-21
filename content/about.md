@@ -22,5 +22,11 @@ The Computational Musicology SIG is a community initiative organised by members 
   <a href="mailto:thomas.nuttall@upf.edu" class="person-mail">thomas.nuttall@upf.edu</a>
 </div>
 
+<div class="person-card">
+  <img src="/computational-musicology/images/martin.jpeg" alt="Martín Rocamora">
+  <h3><a href="https://rocamora.uy/" target="_blank">Martín Rocamora</a></h3>
+  <p>Music Technology Group</p>
+  <a href="mailto:martin.rocamora@upf.edu" class="person-mail">martin.rocamora@upf.edu</a>
+</div>
 
 </div>

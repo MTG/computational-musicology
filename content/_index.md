@@ -30,7 +30,23 @@ We meet monthly on **Fridays at 3 p.m.** for seminars in which **invited speaker
 
 <hr class="talk-divider">
 
-Talks for the fall/winter 2025-2026 will be announced soon.
+
+### 🗓️ 05 December 2025  
+<div class="speaker-line">
+  <strong>Speaker:</strong> Peter Peter Van Kranenburg <em>(Utrecht University)</em>
+  <a href="https://nl.linkedin.com/in/pvankranenburg" class="link-card small">🔗 LinkedIn</a>
+  <a href="https://scholar.google.com/citations?user=F74qwNQAAAAJ&hl=en" class="link-card small">🎓 Scholar</a>
+</div>
+
+
+### 🗓️ 06 February 2026  
+<div class="speaker-line">
+  <strong>Speaker:</strong> Jan Hajič <em>(Charles University)</em>
+  <a href="https://cz.linkedin.com/in/jan-haji%C4%8D-jr-4b8a81bb" class="link-card small">🔗 LinkedIn</a>
+  <a href="https://scholar.google.com/citations?user=1CWcwO0AAAAJ&hl=en" class="link-card small">🎓 Scholar</a>
+</div>
+
+
 
 ---
 
