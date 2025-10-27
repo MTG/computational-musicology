@@ -31,6 +31,15 @@ We meet monthly on **Fridays at 3 p.m.** for seminars in which **invited speaker
 <hr class="talk-divider">
 
 
+### 🗓️ 28 November 2025  
+<div class="speaker-line">
+  <strong>Speaker:</strong> Christof Weiß <em>(Universität Würzburg)</em>
+  <a href="https://www.linkedin.com/in/christof-wei%C3%9F-57879866/" class="link-card small">🔗 LinkedIn</a>
+  <a href="https://scholar.google.com/citations?user=i6nx0CsAAAAJ&hl=de" class="link-card small">🎓 Scholar</a>
+</div>
+
+<hr class="talk-divider">
+
 ### 🗓️ 05 December 2025  
 <div class="speaker-line">
   <strong>Speaker:</strong> Peter Peter Van Kranenburg <em>(Utrecht University)</em>
