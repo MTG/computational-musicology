@@ -30,6 +30,14 @@ We meet monthly on **Fridays at 3 p.m.** for seminars in which **invited speaker
 
 <hr class="talk-divider">
 
+### 🗓️ 7 November 2025  
+<div class="speaker-line">
+  <strong>Speaker:</strong> Mark Gotham <em>(King's College London)</em>
+  <a href="https://uk.linkedin.com/in/mark-gotham-66127444" class="link-card small">🔗 LinkedIn</a>
+  <a href="https://scholar.google.com/citations?user=bA0PEo0AAAAJ&hl=en" class="link-card small">🎓 Scholar</a>
+</div>
+
+<hr class="talk-divider">
 
 ### 🗓️ 28 November 2025  
 <div class="speaker-line">
@@ -84,7 +92,7 @@ We meet monthly on **Fridays at 3 p.m.** for seminars in which **invited speaker
 
 <div class="link-grid">
   <a href="#" target="_blank" class="link-card">🎥 Recording</a>
-  <a href="#" target="_blank" class="link-card">📑 Slides</a>
+  <!-- <a href="#" target="_blank" class="link-card">📑 Slides</a> -->
 </div>
 
 <hr class="talk-divider">
@@ -108,7 +116,7 @@ We meet monthly on **Fridays at 3 p.m.** for seminars in which **invited speaker
 
 <div class="link-grid">
   <a href="#" target="_blank" class="link-card">🎥 Recording</a>
-  <a href="#" target="_blank" class="link-card">📑 Slides</a>
+  <!-- <a href="#" target="_blank" class="link-card">📑 Slides</a> -->
 </div>
 
 <hr class="talk-divider">
