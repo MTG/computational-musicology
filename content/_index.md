@@ -33,6 +33,7 @@ We meet monthly on **Fridays at 3 p.m.** for seminars in which **invited speaker
 ### 🗓️ 7 November 2025  
 <div class="speaker-line">
   <strong>Speaker:</strong> Mark Gotham <em>(King's College London)</em>
+  <a href="https://markgotham.github.io/" class="link-card small">🌐 Website</a>
   <a href="https://uk.linkedin.com/in/mark-gotham-66127444" class="link-card small">🔗 LinkedIn</a>
   <a href="https://scholar.google.com/citations?user=bA0PEo0AAAAJ&hl=en" class="link-card small">🎓 Scholar</a>
 </div>
@@ -42,6 +43,7 @@ We meet monthly on **Fridays at 3 p.m.** for seminars in which **invited speaker
 ### 🗓️ 28 November 2025  
 <div class="speaker-line">
   <strong>Speaker:</strong> Christof Weiß <em>(Universität Würzburg)</em>
+  <a href="https://www.christofweiss.com/" class="link-card small">🌐 Website</a>
   <a href="https://www.linkedin.com/in/christof-wei%C3%9F-57879866/" class="link-card small">🔗 LinkedIn</a>
   <a href="https://scholar.google.com/citations?user=i6nx0CsAAAAJ&hl=de" class="link-card small">🎓 Scholar</a>
 </div>
@@ -57,13 +59,34 @@ We meet monthly on **Fridays at 3 p.m.** for seminars in which **invited speaker
 
 <hr class="talk-divider">
 
+### 🗓️ 23 January 2026  
+<div class="speaker-line">
+  <strong>Speaker:</strong> Lara Pearson <em>(University of Cologne)</em>
+  <a href="https://musikwissenschaft.phil-fak.uni-koeln.de/en/staff/professors/lara-pearson" class="link-card small">🌐 Website</a>
+  <a href="https://scholar.google.com/citations?user=Y4jdiz8AAAAJ&hl=en" class="link-card small">🎓 Scholar</a>
+  <br>
+  <strong>and</strong> Thomas Nuttall <em>(Universitat Pompeu Fabra)</em>
+  <a href="https://thomasgnuttall.github.io/about/" class="link-card small">🌐 Website</a>
+  <a href="https://scholar.google.com/citations?user=11bIYxsAAAAJ&hl=en&authuser=1" class="link-card small">🎓 Scholar</a>
+</div>
+<hr class="talk-divider">
+
 ### 🗓️ 06 February 2026  
 <div class="speaker-line">
   <strong>Speaker:</strong> Jan Hajič <em>(Charles University)</em>
+  <a href="https://ufal.mff.cuni.cz/jan-hajic-jr" class="link-card small">🌐 Website</a>
   <a href="https://cz.linkedin.com/in/jan-haji%C4%8D-jr-4b8a81bb" class="link-card small">🔗 LinkedIn</a>
   <a href="https://scholar.google.com/citations?user=1CWcwO0AAAAJ&hl=en" class="link-card small">🎓 Scholar</a>
 </div>
+<hr class="talk-divider">
 
+
+### 🗓️ 13 February 2026  
+<div class="speaker-line">
+  <strong>Speaker:</strong> Ken Déguernel <em>(CNRS)</em>
+  <a href="https://deguernel.discordia.fr/" class="link-card small">🌐 Website</a>
+  <a href="https://scholar.google.com/citations?user=OhFS_ZEAAAAJ&hl=fr" class="link-card small">🎓 Scholar</a>
+</div>
 
 
 ---
