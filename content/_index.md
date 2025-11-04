@@ -38,8 +38,6 @@ We meet monthly on **Fridays at 3 p.m.** for seminars in which **invited speaker
   <a href="https://scholar.google.com/citations?user=bA0PEo0AAAAJ&hl=en" class="link-card small">🎓 Scholar</a>
 </div>
 
-<hr class="talk-divider">
-
 **Title:** *Cultivating Communities for Cumulative Science, Within and Beyond MIR*
 
 <details>
@@ -50,6 +48,8 @@ We meet monthly on **Fridays at 3 p.m.** for seminars in which **invited speaker
   In this talk, I will share frank experiences from some major, long-term and highly collaborative projects including the “OpenScore" transcription effort (in collaboration with the commercial company Musescore.com and a large number of community volunteers), the "Open Music Theory” textbook (http://viva.pressbooks.pub/openmusictheory/), the social initiative "Four Score and More" (https://fourscoreandmore.org/), and a nascent effort to coordinate a wide range of Algorithms for Music Analysis and Data Science ("AMADS, https://github.com/music-computing/amads/).
   </p>
 </details>
+
+<hr class="talk-divider">
 
 ### 🗓️ 28 November 2025  
 <div class="speaker-line">
