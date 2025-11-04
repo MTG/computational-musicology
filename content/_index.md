@@ -59,6 +59,8 @@ We meet monthly on **Fridays at 3 p.m.** for seminars in which **invited speaker
   <a href="https://scholar.google.com/citations?user=i6nx0CsAAAAJ&hl=de" class="link-card small">🎓 Scholar</a>
 </div>
 
+**Title:** *Computational Analysis of Music Audio Recordings: Corpora, Concepts, and Algorithms*
+
 <hr class="talk-divider">
 
 ### 🗓️ 05 December 2025  
