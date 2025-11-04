@@ -13,13 +13,13 @@ The SIG brings together researchers and students exploring computational approac
 We meet monthly on **Fridays at 3 p.m.** for seminars in which **invited speakers** share their latest work and engage in open discussions with the MTG community. Sessions are held online via Zoom and are open to everyone. 
 
 <div class="link-grid">
-  <a href="https://zoom.us/j/your-zoom-linkhttps://upf-edu.zoom.us/j/94354379156" class="link-card">
+  <a href="https://upf-edu.zoom.us/j/94354379156" class="link-card">
     <span class="emoji">💻</span> Join on Zoom
   </a>
-  <a href="https://www.youtube.com/playlist?list=YOUR_PLAYLIST_ID" class="link-card">
+  <a href="https://www.youtube.com/@MusicTechnologyGroup" class="link-card">
     <span class="emoji">🎥</span> YouTube Recordings
   </a>
-  <a href="https://your-newsletter-linkhttps://groups.google.com/u/3/a/llista.upf.edu/g/mtg-sig-compmusic/about" class="link-card">
+  <a href="https://groups.google.com/u/3/a/llista.upf.edu/g/mtg-sig-compmusic/about" class="link-card">
     <span class="emoji">📬</span> Newsletter
   </a>
 </div>
