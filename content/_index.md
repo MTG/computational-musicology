@@ -40,6 +40,17 @@ We meet monthly on **Fridays at 3 p.m.** for seminars in which **invited speaker
 
 <hr class="talk-divider">
 
+**Title:** *Cultivating Communities for Cumulative Science, Within and Beyond MIR*
+
+<details>
+  <summary><b>📄 Abstract</b></summary>
+  <p>
+  While research is sometimes a solitary pursuit, most recognise that deep, field-wide collaboration is the best way to advance the field most effectively. And while MIR – like all fields – faces certain challenges, overall, it is a wonderfully open and engaged community that is highly responsive to this best practice and keen to build each other up for the collective good. This is a key strength to build on.
+
+  In this talk, I will share frank experiences from some major, long-term and highly collaborative projects including the “OpenScore" transcription effort (in collaboration with the commercial company Musescore.com and a large number of community volunteers), the "Open Music Theory” textbook (http://viva.pressbooks.pub/openmusictheory/), the social initiative "Four Score and More" (https://fourscoreandmore.org/), and a nascent effort to coordinate a wide range of Algorithms for Music Analysis and Data Science ("AMADS, https://github.com/music-computing/amads/).
+  </p>
+</details>
+
 ### 🗓️ 28 November 2025  
 <div class="speaker-line">
   <strong>Speaker:</strong> Christof Weiß <em>(Universität Würzburg)</em>
