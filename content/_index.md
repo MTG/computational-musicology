@@ -16,7 +16,7 @@ We meet monthly on **Fridays at 3 p.m.** for seminars in which **invited speaker
   <a href="https://upf-edu.zoom.us/j/94354379156" class="link-card">
     <span class="emoji">💻</span> Join on Zoom
   </a>
-  <a href="https://www.youtube.com/@MusicTechnologyGroup" class="link-card">
+  <a href="https://www.youtube.com/playlist?list=PL0EPT_FWD3Mlzii8gsrQ2upqbwhZy6Jm2" class="link-card">
     <span class="emoji">🎥</span> YouTube Recordings
   </a>
   <a href="https://groups.google.com/u/3/a/llista.upf.edu/g/mtg-sig-compmusic/about" class="link-card">
@@ -30,19 +30,6 @@ We meet monthly on **Fridays at 3 p.m.** for seminars in which **invited speaker
 
 <hr class="talk-divider">
 
-
-
-### 🗓️ 28 November 2025  
-<div class="speaker-line">
-  <strong>Speaker:</strong> Christof Weiß <em>(Universität Würzburg)</em>
-  <a href="https://www.christofweiss.com/" class="link-card small">🌐 Website</a>
-  <a href="https://www.linkedin.com/in/christof-wei%C3%9F-57879866/" class="link-card small">🔗 LinkedIn</a>
-  <a href="https://scholar.google.com/citations?user=i6nx0CsAAAAJ&hl=de" class="link-card small">🎓 Scholar</a>
-</div>
-
-**Title:** *Computational Analysis of Music Audio Recordings: Corpora, Concepts, and Algorithms*
-
-<hr class="talk-divider">
 
 ### 🗓️ 05 December 2025  
 <div class="speaker-line">
@@ -100,6 +87,23 @@ We meet monthly on **Fridays at 3 p.m.** for seminars in which **invited speaker
 
 <h1 style="text-align:center">Past Events</h1>
 
+<hr class="talk-divider">
+
+
+### 🗓️ 28 November 2025  
+<div class="speaker-line">
+  <strong>Speaker:</strong> Christof Weiß <em>(Universität Würzburg)</em>
+  <a href="https://www.christofweiss.com/" class="link-card small">🌐 Website</a>
+  <a href="https://www.linkedin.com/in/christof-wei%C3%9F-57879866/" class="link-card small">🔗 LinkedIn</a>
+  <a href="https://scholar.google.com/citations?user=i6nx0CsAAAAJ&hl=de" class="link-card small">🎓 Scholar</a>
+</div>
+
+**Title:** *Computational Analysis of Music Audio Recordings: Corpora, Concepts, and Algorithms*
+
+<div class="link-grid">
+  <!--<a href="https://www.youtube.com/watch?v=R2kWpK7UGwY" target="_blank" class="link-card">🎥 Recording</a>-->
+   <a href="https://drive.google.com/file/d/1-FFVmzsgDNyHmrxuTIgxQvt2T9fxAD0j/view?usp=sharing" target="_blank" class="link-card">📑 Slides</a> 
+</div>
 <hr class="talk-divider">
 
 ### 🗓️ 7 November 2025  
