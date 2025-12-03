@@ -38,6 +38,8 @@ We meet monthly on **Fridays at 3 p.m.** for seminars in which **invited speaker
   <a href="https://scholar.google.com/citations?user=F74qwNQAAAAJ&hl=en" class="link-card small">🎓 Scholar</a>
 </div>
 
+**Title:** *Data Models, Classification Models, and User Interaction for Pipe Organs and Pipe Organ Music*
+
 <hr class="talk-divider">
 
 
