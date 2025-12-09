@@ -31,18 +31,6 @@ We meet monthly on **Fridays at 3 p.m.** for seminars in which **invited speaker
 <hr class="talk-divider">
 
 
-### 🗓️ 05 December 2025  
-<div class="speaker-line">
-  <strong>Speaker:</strong> Peter Peter Van Kranenburg <em>(Utrecht University)</em>
-  <a href="https://nl.linkedin.com/in/pvankranenburg" class="link-card small">🔗 LinkedIn</a>
-  <a href="https://scholar.google.com/citations?user=F74qwNQAAAAJ&hl=en" class="link-card small">🎓 Scholar</a>
-</div>
-
-**Title:** *Data Models, Classification Models, and User Interaction for Pipe Organs and Pipe Organ Music*
-
-<hr class="talk-divider">
-
-
 ### 🗓️ 12 December 2025  
 <div class="speaker-line">
   <strong>Speaker:</strong> David Dalmazzo <em>(Universitat Pompeu Fabra)</em>
@@ -91,6 +79,17 @@ We meet monthly on **Fridays at 3 p.m.** for seminars in which **invited speaker
 
 <hr class="talk-divider">
 
+
+### 🗓️ 05 December 2025  
+<div class="speaker-line">
+  <strong>Speaker:</strong> Peter Peter Van Kranenburg <em>(Utrecht University)</em>
+  <a href="https://nl.linkedin.com/in/pvankranenburg" class="link-card small">🔗 LinkedIn</a>
+  <a href="https://scholar.google.com/citations?user=F74qwNQAAAAJ&hl=en" class="link-card small">🎓 Scholar</a>
+</div>
+
+**Title:** *Data Models, Classification Models, and User Interaction for Pipe Organs and Pipe Organ Music*
+
+<hr class="talk-divider">
 
 ### 🗓️ 28 November 2025  
 <div class="speaker-line">
