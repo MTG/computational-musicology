@@ -30,19 +30,6 @@ We meet monthly on **Fridays at 3 p.m.** for seminars in which **invited speaker
 
 <hr class="talk-divider">
 
-
-### 🗓️ 12 December 2025  
-<div class="speaker-line">
-  <strong>Speaker:</strong> David Dalmazzo <em>(Universitat Pompeu Fabra)</em>
-  <a href="http://dazzid.net/" class="link-card small">🌐 Website</a>
-  <a href="https://es.linkedin.com/in/dazzid" class="link-card small">🔗 LinkedIn</a>
-  <a href="https://scholar.google.com/citations?user=F74qwNQAAAAJ&hl=en" class="link-card small">🎓 Scholar</a>
-</div>
-
-**Title:** *Harmonic modeling in microtonality*
-
-<hr class="talk-divider">
-
 ### 🗓️ 23 January 2026  
 <div class="speaker-line">
   <strong>Speaker:</strong> Lara Pearson <em>(University of Cologne)</em>
@@ -79,6 +66,18 @@ We meet monthly on **Fridays at 3 p.m.** for seminars in which **invited speaker
 
 <hr class="talk-divider">
 
+
+### 🗓️ 12 December 2025  
+<div class="speaker-line">
+  <strong>Speaker:</strong> David Dalmazzo <em>(Universitat Pompeu Fabra)</em>
+  <a href="http://dazzid.net/" class="link-card small">🌐 Website</a>
+  <a href="https://es.linkedin.com/in/dazzid" class="link-card small">🔗 LinkedIn</a>
+  <a href="https://scholar.google.com/citations?user=F74qwNQAAAAJ&hl=en" class="link-card small">🎓 Scholar</a>
+</div>
+
+**Title:** *Harmonic modeling in microtonality*
+
+<hr class="talk-divider">
 
 ### 🗓️ 05 December 2025  
 <div class="speaker-line">
