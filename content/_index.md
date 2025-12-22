@@ -77,6 +77,10 @@ We meet monthly on **Fridays at 3 p.m.** for seminars in which **invited speaker
 
 **Title:** *Harmonic modeling in microtonality*
 
+<div class="link-grid">
+  <a href="https://youtu.be/I3n_Axh8kLk?si=XkLS7by0fgwOzz_0" target="_blank" class="link-card">🎥 Recording</a>
+   <!--<a href="https://drive.google.com/file/d/1-FFVmzsgDNyHmrxuTIgxQvt2T9fxAD0j/view?usp=sharing" target="_blank" class="link-card">📑 Slides</a> -->
+</div>
 <hr class="talk-divider">
 
 ### 🗓️ 05 December 2025  
@@ -88,6 +92,10 @@ We meet monthly on **Fridays at 3 p.m.** for seminars in which **invited speaker
 
 **Title:** *Data Models, Classification Models, and User Interaction for Pipe Organs and Pipe Organ Music*
 
+<div class="link-grid">
+  <a href="https://youtu.be/-TZHTGPD5BA?si=aUdpIiB8dwjiRwlO" target="_blank" class="link-card">🎥 Recording</a>
+   <!--<a href="https://drive.google.com/file/d/1-FFVmzsgDNyHmrxuTIgxQvt2T9fxAD0j/view?usp=sharing" target="_blank" class="link-card">📑 Slides</a> -->
+</div>
 <hr class="talk-divider">
 
 ### 🗓️ 28 November 2025  
@@ -101,7 +109,7 @@ We meet monthly on **Fridays at 3 p.m.** for seminars in which **invited speaker
 **Title:** *Computational Analysis of Music Audio Recordings: Corpora, Concepts, and Algorithms*
 
 <div class="link-grid">
-  <!--<a href="https://www.youtube.com/watch?v=R2kWpK7UGwY" target="_blank" class="link-card">🎥 Recording</a>-->
+  <a href="https://youtu.be/rFSOZDImSQU?si=HCCEYLLYHYvQP5u6" target="_blank" class="link-card">🎥 Recording</a>
    <a href="https://drive.google.com/file/d/1-FFVmzsgDNyHmrxuTIgxQvt2T9fxAD0j/view?usp=sharing" target="_blank" class="link-card">📑 Slides</a> 
 </div>
 <hr class="talk-divider">
