@@ -93,7 +93,7 @@ We meet monthly on **Fridays at 3 p.m.** for seminars in which **invited speaker
 **Title:** *Data Models, Classification Models, and User Interaction for Pipe Organs and Pipe Organ Music*
 
 <div class="link-grid">
-  <a href="https://youtu.be/-TZHTGPD5BA?si=aUdpIiB8dwjiRwlO" target="_blank" class="link-card">🎥 Recording</a>
+  <a href="https://youtu.be/-TZHTGPD5BA?si=P5udm2k2R1VRhMC0" target="_blank" class="link-card">🎥 Recording</a>
    <!--<a href="https://drive.google.com/file/d/1-FFVmzsgDNyHmrxuTIgxQvt2T9fxAD0j/view?usp=sharing" target="_blank" class="link-card">📑 Slides</a> -->
 </div>
 <hr class="talk-divider">
