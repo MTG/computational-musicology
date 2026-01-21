@@ -40,6 +40,16 @@ We meet monthly on **Fridays at 3 p.m.** for seminars in which **invited speaker
   <a href="https://thomasgnuttall.github.io/about/" class="link-card small">🌐 Website</a>
   <a href="https://scholar.google.com/citations?user=11bIYxsAAAAJ&hl=en&authuser=1" class="link-card small">🎓 Scholar</a>
 </div>
+
+**Title:** *Modelling Coarticulatory Processes in Carnatic Svara Performance*
+
+<details>
+  <summary><b>📄 Abstract</b></summary>
+  <p>
+      In the South Indian music tradition known as Carnatic music, svaras (notes) are often performed with gamakas (ornamentation), which can involve oscillations, slides and brief movements to neighbouring pitches. Musicians and musicologists have long observed that the choice of gamaka is dependent on melodic context, a phenomenon recently theorized using the concept of coarticulation: where the performance of a unit (in this case a svara) is influenced by that which precedes or follows it. In this talk, we discuss and analyse the coarticulatory nature of Carnatic music and demonstrate how incorporating these processes into our models can lead to improved svara representation learning.
+  </p>
+</details>
+
 <hr class="talk-divider">
 
 ### 🗓️ 06 February 2026  
