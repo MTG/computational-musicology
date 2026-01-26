@@ -70,7 +70,7 @@ We meet monthly on **Fridays at 3 p.m.** for seminars in which **invited speaker
 
 <details>
   <summary><b>📄 Abstract</b></summary>
-  <p>
+  <p class="abstract">
       In the South Indian music tradition known as Carnatic music, svaras (notes) are often performed with gamakas (ornamentation), which can involve oscillations, slides and brief movements to neighbouring pitches. Musicians and musicologists have long observed that the choice of gamaka is dependent on melodic context, a phenomenon recently theorized using the concept of coarticulation: where the performance of a unit (in this case a svara) is influenced by that which precedes or follows it. In this talk, we discuss and analyse the coarticulatory nature of Carnatic music and demonstrate how incorporating these processes into our models can lead to improved svara representation learning.
   </p>
 </details>
@@ -141,9 +141,8 @@ We meet monthly on **Fridays at 3 p.m.** for seminars in which **invited speaker
 
 <details>
   <summary><b>📄 Abstract</b></summary>
-  <p>
+  <p class="abstract">
   While research is sometimes a solitary pursuit, most recognise that deep, field-wide collaboration is the best way to advance the field most effectively. And while MIR – like all fields – faces certain challenges, overall, it is a wonderfully open and engaged community that is highly responsive to this best practice and keen to build each other up for the collective good. This is a key strength to build on.
-
   In this talk, I will share frank experiences from some major, long-term and highly collaborative projects including the “OpenScore" transcription effort (in collaboration with the commercial company Musescore.com and a large number of community volunteers), the "Open Music Theory” textbook (http://viva.pressbooks.pub/openmusictheory/), the social initiative "Four Score and More" (https://fourscoreandmore.org/), and a nascent effort to coordinate a wide range of Algorithms for Music Analysis and Data Science ("AMADS, https://github.com/music-computing/amads/).
   </p>
 </details>
@@ -161,7 +160,7 @@ We meet monthly on **Fridays at 3 p.m.** for seminars in which **invited speaker
 
 <details>
   <summary><b>📄 Abstract</b></summary>
-  <p>
+  <p class="abstract">
   This work presents an attempt to study the aesthetics of North Indian Khayal music with reference to the flexibility exercised by artists in performing popular compositions.
   We study expressive timing and pitch variations of the given lyrical content within and across performances and propose computational representations that can discriminate between different performances of the same song in terms of expression.
   We present the necessary audio processing and annotation procedures, and discuss our observations and insights from the analysis of a dataset of two songs in two ragas each rendered by ten prominent artists.
@@ -186,7 +185,7 @@ We meet monthly on **Fridays at 3 p.m.** for seminars in which **invited speaker
 
 <details>
   <summary><b>📄 Abstract</b></summary>
-  <p>
+  <p class="abstract">
   Far from being a solved problem, deep learning source separation has reached impressive performance, particularly on Western pop-rock music. Formalising the task as a 4-stem separation problem—alongside open baselines, datasets, and public challenges—has driven significant methodological progress. However, the task remains challenging in non-standard setups, such as variable instrumentations, non-Western genres, universal source separation, and bioacoustics, where clean reference data is often unavailable.
   This talk will explore several strategies to address this issue, including domain adaptation, self-training, and knowledge distillation, and will present a practical case: denoising animal vocalisations.
   </p>
