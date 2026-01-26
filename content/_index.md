@@ -57,11 +57,11 @@ We meet monthly on **Fridays at 3 p.m.** for seminars in which **invited speaker
 
 ### 🗓️ 23 January 2026  
 <div class="speaker-line">
-  <strong>and</strong> Thomas Nuttall <em>(Universitat Pompeu Fabra)</em>
+  <strong>Speaker:</strong> Thomas Nuttall <em>(Universitat Pompeu Fabra)</em>
   <a href="https://thomasgnuttall.github.io/about/" class="link-card small">🌐 Website</a>
   <a href="https://scholar.google.com/citations?user=11bIYxsAAAAJ&hl=en&authuser=1" class="link-card small">🎓 Scholar</a>
   <br>
-  <strong>Speaker:</strong> Lara Pearson <em>(University of Cologne)</em>
+  <strong>and <strong> Lara Pearson <em>(University of Cologne)</em>
   <a href="https://musikwissenschaft.phil-fak.uni-koeln.de/en/staff/professors/lara-pearson" class="link-card small">🌐 Website</a>
   <a href="https://scholar.google.com/citations?user=Y4jdiz8AAAAJ&hl=en" class="link-card small">🎓 Scholar</a>
 </div>
