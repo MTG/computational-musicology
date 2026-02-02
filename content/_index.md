@@ -38,6 +38,15 @@ We meet monthly on **Fridays at 3 p.m.** for seminars in which **invited speaker
   <a href="https://cz.linkedin.com/in/jan-haji%C4%8D-jr-4b8a81bb" class="link-card small">🔗 LinkedIn</a>
   <a href="https://scholar.google.com/citations?user=1CWcwO0AAAAJ&hl=en" class="link-card small">🎓 Scholar</a>
 </div>
+
+**Title:** *Genome of Melody: studying Gregorian chant with phylogenetics*
+
+<details>
+  <summary><b>📄 Abstract</b></summary>
+  <p class="abstract">
+      Gregorian chant was a central musical tradition in Medieval Latin Europe and one of the expressions of its cultural unity: any Latin Christian liturgy, such as the weekly Sunday mass, would have involved prescribed chants as a major part of the ritual. The practitioners were required to conserve chant melodies; nevertheless, a single chant rarely has the exact same melody in any two surviving manuscripts, resembling folksong more than ”works” traditionally studied by historical musicology. Some systematic patterns within this melodic diversity have previously been observed in chant scholarship, but the scale of chant makes this study difficult without automation. We notice remarkable analogies between biological evolution and processes of Gregorian chant transmission, which lead us to suggest recovering these “melodic dialects” using phylogenetic methods. We show that phylogenetic models recover historically plausible patterns of chant melody evolution. Some, but not all, institutional networks play a more important role than geographic proximity. Additionally, extreme phenomena in the inferred phylogenies draw attention to exceptional historical circumstance. Beyond Gregorian chant itself, this framing of melodic diversity as a result of transmission processes becomes a pathway towards mapping the underlying ecclesiastical cultural networks.
+  </p>
+</details>
 <hr class="talk-divider">
 
 
