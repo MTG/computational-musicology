@@ -28,8 +28,28 @@ We meet monthly on **Fridays at 3 p.m.** for seminars in which **invited speaker
 
 <h1 style="text-align:center">Upcoming Events</h1>
 
-<hr class="talk-divider">
 
+### 🗓️ 20 February 2026  
+<div class="speaker-line">
+  <strong>Speaker:</strong> Ken Déguernel <em>(CNRS)</em>
+  <a href="https://deguernel.discordia.fr/" class="link-card small">🌐 Website</a>
+  <a href="https://scholar.google.com/citations?user=OhFS_ZEAAAAJ&hl=fr" class="link-card small">🎓 Scholar</a>
+</div>
+
+**Title:** *The horse is out of the stable - Reflections on the incursion of generative AI in music*
+
+<details>
+  <summary><b>📄 Abstract</b></summary>
+  <p class="abstract">
+      In this presentation, I will share some of my personal reflections and reactions on the widespread and often polarised discussions surrouding the recent boom of generative AI in music, both in mainstream conversations and within the MIR community. I will first position this incursion within the broader context of Computational Creativity and regarding the musicological position about technology and industry. From there I will discuss these themes through the lense of the emerging AI Music Studies field, in particular by drawing on insights and debates that emerged during a recent workshop on the Ethics of AI in Music that took place in KTH, Stockholm, last November.
+  </p>
+</details>
+
+---
+
+<h1 style="text-align:center">Past Events</h1>
+
+<hr class="talk-divider">
 
 ### 🗓️ 06 February 2026  
 <div class="speaker-line">
@@ -47,23 +67,9 @@ We meet monthly on **Fridays at 3 p.m.** for seminars in which **invited speaker
       Gregorian chant was a central musical tradition in Medieval Latin Europe and one of the expressions of its cultural unity: any Latin Christian liturgy, such as the weekly Sunday mass, would have involved prescribed chants as a major part of the ritual. The practitioners were required to conserve chant melodies; nevertheless, a single chant rarely has the exact same melody in any two surviving manuscripts, resembling folksong more than ”works” traditionally studied by historical musicology. Some systematic patterns within this melodic diversity have previously been observed in chant scholarship, but the scale of chant makes this study difficult without automation. We notice remarkable analogies between biological evolution and processes of Gregorian chant transmission, which lead us to suggest recovering these “melodic dialects” using phylogenetic methods. We show that phylogenetic models recover historically plausible patterns of chant melody evolution. Some, but not all, institutional networks play a more important role than geographic proximity. Additionally, extreme phenomena in the inferred phylogenies draw attention to exceptional historical circumstance. Beyond Gregorian chant itself, this framing of melodic diversity as a result of transmission processes becomes a pathway towards mapping the underlying ecclesiastical cultural networks.
   </p>
 </details>
-<hr class="talk-divider">
-
-
-### 🗓️ 13 February 2026  
-<div class="speaker-line">
-  <strong>Speaker:</strong> Ken Déguernel <em>(CNRS)</em>
-  <a href="https://deguernel.discordia.fr/" class="link-card small">🌐 Website</a>
-  <a href="https://scholar.google.com/citations?user=OhFS_ZEAAAAJ&hl=fr" class="link-card small">🎓 Scholar</a>
-</div>
-
-
----
-
-<h1 style="text-align:center">Past Events</h1>
 
 <hr class="talk-divider">
-
+    
 ### 🗓️ 23 January 2026  
 <div class="speaker-line">
   <strong>Speaker:</strong> Thomas Nuttall <em>(Universitat Pompeu Fabra)</em>
