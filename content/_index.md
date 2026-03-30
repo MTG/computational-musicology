@@ -29,6 +29,37 @@ We meet monthly on **Fridays at 3 p.m.** for seminars in which **invited speaker
 <h1 style="text-align:center">Upcoming Events</h1>
 
 
+### 🗓️ 10 April 2026  
+<div class="speaker-line">
+  <strong>Speaker:</strong> Carlos Guedes <em>New York University Abu Dhabi</em>
+  <a href="https://www.carlosguedes.org/" class="link-card small">🌐 Website</a>
+  <a href="https://scholar.google.com/citations?user=dhkSpxYAAAAJ&hl=en" class="link-card small">🎓 Scholar</a>
+</div>
+
+<hr class="talk-divider">
+    
+### 🗓️ 20 April 2026  
+<div class="speaker-line">
+  <strong>Speaker:</strong> Nick Bryan-Kinns <em>University of the Arts London</em>
+  <a href="https://nickbknickbk.github.io/" class="link-card small">🌐 Website</a>
+  <a href="https://scholar.google.com/citations?user=YK0-nYAAAAAJ&hl=en" class="link-card small">🎓 Scholar</a>
+</div>
+
+**Title:** *Praxis GenAI: balancing creative skills with the generative accuracy (or not) of Generative AI in music and embroidery*
+
+<details>
+  <summary><b>📄 Abstract</b></summary>
+  <p class="abstract">
+    Many generative AI (GenAI) tools can produce high quality content from simple text prompts. For many creative practitioners this makes such tools unusable and uninteresting for their creative practice. Instead there is an opportunity to explore GenAI tools which better support the praxis of intangible cultural heritage (ICH) rather than attempting to create the most accurate or complete GenAI renderings of ICH. I refer to this as ICH praxis oriented GenAI, or praxis GenAI for short. I purposefully place emphasis on the praxis of ICH before GenAI to foreground that in this approach ICH is more important than GenAI, not the other way around as is often the case in technocentric approaches to ICH. Praxis GenAI relies on a pragmatic balance between ICH lived practice and creative skills with the generative accuracy (or not) of GenAI. Praxis GenAI’s role then is the generation of content that is close enough to a practitioner’s style and yet flexible enough to be useful in their creative practice. Thinking of praxis GenAI as supporting and responding to lived practice in this way also offers pathways to explore, probe, and better understand ICH rather than seeing GenAI as leading ICH innovation. I illustrate my talk with examples from current research including my own research on music and embroidery with GenAI, highlighting how small, lightweight GenAI models offer opportunities for creative expression and reflection, creative agency, and the responsible use of AI. 
+  </p>
+</details>
+
+---
+
+<h1 style="text-align:center">Past Events</h1>
+
+<hr class="talk-divider">
+
 ### 🗓️ 20 February 2026  
 <div class="speaker-line">
   <strong>Speaker:</strong> Ken Déguernel <em>(CNRS)</em>
@@ -44,10 +75,6 @@ We meet monthly on **Fridays at 3 p.m.** for seminars in which **invited speaker
       In this presentation, I will share some of my personal reflections and reactions on the widespread and often polarised discussions surrouding the recent boom of generative AI in music, both in mainstream conversations and within the MIR community. I will first position this incursion within the broader context of Computational Creativity and regarding the musicological position about technology and industry. From there I will discuss these themes through the lense of the emerging AI Music Studies field, in particular by drawing on insights and debates that emerged during a recent workshop on the Ethics of AI in Music that took place in KTH, Stockholm, last November.
   </p>
 </details>
-
----
-
-<h1 style="text-align:center">Past Events</h1>
 
 <hr class="talk-divider">
 
