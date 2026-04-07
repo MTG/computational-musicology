@@ -36,6 +36,15 @@ We meet monthly on **Fridays at 3 p.m.** for seminars in which **invited speaker
   <a href="https://scholar.google.com/citations?user=dhkSpxYAAAAJ&hl=en" class="link-card small">🎓 Scholar</a>
 </div>
 
+**Title:** *Challenges and potential approaches to the study of music from the Arabian Gulf*
+
+<details>
+  <summary><b>📄 Abstract</b></summary>
+  <p class="abstract">
+  In this talk I will present the work by the Music and Sound Cultures Research Group in recording and digitally encoding music from the Arabian Gulf. This music is interestingly rich in influences that span from East Africa to South India, yet it is not well known outside this region. I will describe the challenges posed to researchers interested in researching this music, and discuss the transdisciplinary methodologies we are developing in order to make this music discoverable and analyzable in the digital domain.
+  </p>
+</details>
+
 <hr class="talk-divider">
     
 ### 🗓️ 20 April 2026  
