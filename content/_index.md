@@ -35,6 +35,7 @@ We meet monthly on **Fridays at 3 p.m.** for seminars in which **invited speaker
 </div>
 
 **Title:** *Concepts to Compositions: Mathematical Shaping of Original Indian Classical Pieces*
+
 **Location:** *UPF Poble Nou Campus. Carrer de Roc Boronat, 138, Sant Martí, 08018 Barcelona. Room 55.309. Follow signs for talk*
 
 <details>
