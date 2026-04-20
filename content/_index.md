@@ -28,31 +28,6 @@ We meet monthly on **Fridays at 3 p.m.** for seminars in which **invited speaker
 
 <h1 style="text-align:center">Upcoming Events</h1>
 
-    
-### 🗓️ IAM Sub-series | 30 April 2026  
-<div class="speaker-line">
-  <strong>Speaker:</strong> Dr. T.K. Saroja <em> Dr. T.K. Saroja, Faculty IIIT Hyderabad, Online Professor Aria University, CA</em>
-  <a href="pending" class="link-card small">🌐 Website</a>
-</div>
-
-**Title:** *Concepts to Compositions: Mathematical Shaping of Original Indian Classical Pieces*
-
-<details>
-  <summary><b>📄 Abstract</b></summary>
-  <p class="abstract">
- Indian music is renowned for its rich conceptual frameworks, diverse compositional forms, aesthetic depth, and inherent logical structures. Exploring how abstract concepts can serve as catalysts for musical creation presents a compelling and prospective area of research. This lecture–demonstration examines the process through which conceptual ideas evolve into innovative musical compositions and compositional forms.
-
-The presentation features a selection of original compositions by the researcher, each derived from distinct conceptual foundations. The lecture will illustrate several approaches, including the translation of mathematical concepts into compositional structures, the extraction and reorganization of rhythmic patterns as the basis for new works, and the inter-transfer of conceptual ideas between different musical systems.
-
-Additionally, the lecture highlights a unique and original concept conceived by the researcher’s teacher (guru), where an exclusive principle drawn from language has been transformed into a new compositional form.
-
-Through analytical discussion and live musical demonstrations, the lecture aims to reveal how interdisciplinary and conceptual thinking can expand the creative and structural possibilities within Indian music.
-
-  </p>
-</details>
-
-<hr class="talk-divider">
-
 ### 🗓️ IAM Sub-series | 30 April 2026 | 15:00 CET, Presential and Online
 <div class="speaker-line">
   <strong>Speaker:</strong> Dr. T.K. Saroja <em> Faculty IIIT Hyderabad, Online Professor Aria University, CA</em>
@@ -81,7 +56,7 @@ Through analytical discussion and live musical demonstrations, the lecture aims 
 ### 🗓️ IAM Sub-series | 15 May 2026 | 16:00 CET, Online
 <div class="speaker-line">
   <strong>Speaker:</strong> Dr. Raghavasimhan Sankaranarayanan <em> Georgia Tech</em>
-  <a href="pending" class="link-card small">🌐 Website</a>
+  <a href="https://scholar.google.com/citations?hl=en&user=cyfa9IIAAAAJ" class="link-card small">🌐 Scholar</a>
 </div>
 
 **Title:** *Application of Robotic Musicianship and Artificial Intelligence in South Indian Classical Music*
@@ -97,7 +72,7 @@ Pending
 ### 🗓️ IAM Sub-series | 29 May 2026 | 15:00 CET, Online
 <div class="speaker-line">
   <strong>Speaker:</strong> Gowriprasad R <em> IIT Madras</em>
-  <a href="pending" class="link-card small">🌐 Website</a>
+  <a href="https://scholar.google.com/citations?user=ZWMSpYAAAAAJ&hl=en&oi=ao" class="link-card small">🌐 Scholar</a>
 </div>
 
 **Title:** *Towards a Common Stroke Representation: Unsupervised Clustering of Indian Percussion Strokes*
