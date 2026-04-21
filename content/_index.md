@@ -37,6 +37,8 @@ We meet monthly for seminars in which **invited speakers** share their latest wo
 
 **Title:** *Cultural perspectives on 'working as intended'*
 
+**Location:** *UPF Poble Nou Campus. Carrer de Roc Boronat, 138, Sant Martí, 08018 Barcelona. Room 55.410.*
+
 <details>
   <summary><b>📄 Abstract</b></summary>
   <p class="abstract">
