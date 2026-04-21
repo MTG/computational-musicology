@@ -107,8 +107,6 @@ Pending
   </p>
 </details>
 
-<hr class="talk-divider">
-
 
 ---
 
