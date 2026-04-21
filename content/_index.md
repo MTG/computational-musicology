@@ -10,7 +10,7 @@ Welcome to the **Computational Musicology Special Interest Group (SIG)** at the 
 
 The SIG brings together researchers and students exploring computational approaches to (ethno-)musicology, spanning topics such as symbolic and audio analysis, and music understanding.
 
-We meet monthly on **Fridays at 3 p.m.** for seminars in which **invited speakers** share their latest work and engage in open discussions with the MTG community. Sessions are held online via Zoom and are open to everyone. 
+We meet monthly for seminars in which **invited speakers** share their latest work and engage in open discussions with the MTG community. Sessions are held online via Zoom and are open to everyone. Unless announced differently, seminars take place on **Fridays at 3 p.m.**.
 
 <div class="link-grid">
   <a href="https://upf-edu.zoom.us/j/94354379156" class="link-card">
@@ -27,6 +27,25 @@ We meet monthly on **Fridays at 3 p.m.** for seminars in which **invited speaker
 ---
 
 <h1 style="text-align:center">Upcoming Events</h1>
+
+### 🗓️ 29 April 2026  | 12:00 CET, Presential and Online
+<div class="speaker-line">
+  <strong>Speaker:</strong> Cynthia C. S. Liem <em>Multimedia Computing Group, Delft University of Technology</em>
+  <a href="https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/multimedia-computing/people/cynthia-liem" class="link-card small">🌐 Website</a>
+  <a href="https://scholar.google.com/citations?user=BFhUNNEAAAAJ&hl=en" class="link-card small">🎓 Scholar</a>
+</div>
+
+**Title:** *Cultural perspectives on 'working as intended'*
+
+<details>
+  <summary><b>📄 Abstract</b></summary>
+  <p class="abstract">
+    In a society in which digital technology has become a critical component, it becomes increasingly important to be aware of ways in which the integration of technology may have consequences to the way in which societal challenges are perceived and understood. In this talk, I will reflect on this, wearing my different hats as a computer scientist, educator, musician, inter- and transdisciplinary researcher, and a recent public figure in AI policy and media commentaries. Through multiple examples, ranging from MIR and the cultural sector to recent cases of algorithmic discrimination, I will illustrate methodological and conceptual points of friction between what a technologist may usually optimize for, and what may be needed in practice. Based on this, I will emphasize the explicit need for a holistic view on our professional responsibility as digital experts.
+  </p>
+</details>
+
+<hr class="talk-divider">
+    
 
 ### 🗓️ IAM Sub-series | 30 April 2026 | 15:00 CET, Presential and Online
 <div class="speaker-line">
@@ -70,6 +89,8 @@ Pending
   </p>
 </details>
 
+<hr class="talk-divider">
+    
 ### 🗓️ IAM Sub-series | 29 May 2026 | 15:00 CET, Online
 <div class="speaker-line">
   <strong>Speaker:</strong> Gowriprasad R <em> IIT Madras</em>
@@ -93,7 +114,7 @@ Pending
 
 <h1 style="text-align:center">Past Events</h1>
 
-### 🗓️ 20 April 2026  
+### 🗓️ 20 April 2026 | 12:00 CET, Presential and Online
 <div class="speaker-line">
   <strong>Speaker:</strong> Nick Bryan-Kinns <em>University of the Arts London</em>
   <a href="https://nickbknickbk.github.io/" class="link-card small">🌐 Website</a>
@@ -111,7 +132,7 @@ Pending
 
 <hr class="talk-divider">
 
-### 🗓️ 10 April 2026  
+### 🗓️ 10 April 2026  | 15:00 CET, Presential and Online
 <div class="speaker-line">
   <strong>Speaker:</strong> Carlos Guedes <em>New York University Abu Dhabi</em>
   <a href="https://www.carlosguedes.org/" class="link-card small">🌐 Website</a>
@@ -129,7 +150,7 @@ Pending
 
 <hr class="talk-divider">
 
-### 🗓️ 20 February 2026  
+### 🗓️ 20 February 2026  | 15:00 CET, Online
 <div class="speaker-line">
   <strong>Speaker:</strong> Ken Déguernel <em>(CNRS)</em>
   <a href="https://deguernel.discordia.fr/" class="link-card small">🌐 Website</a>
@@ -147,7 +168,7 @@ Pending
 
 <hr class="talk-divider">
 
-### 🗓️ 06 February 2026  
+### 🗓️ 06 February 2026  | 15:00 CET, Online
 <div class="speaker-line">
   <strong>Speaker:</strong> Jan Hajič <em>(Charles University)</em>
   <a href="https://ufal.mff.cuni.cz/jan-hajic-jr" class="link-card small">🌐 Website</a>
@@ -166,7 +187,7 @@ Pending
 
 <hr class="talk-divider">
     
-### 🗓️ 23 January 2026  
+### 🗓️ 23 January 2026  | 15:00 CET, Online
 <div class="speaker-line">
   <strong>Speaker:</strong> Thomas Nuttall <em>(Universitat Pompeu Fabra)</em>
   <a href="https://thomasgnuttall.github.io/about/" class="link-card small">🌐 Website</a>
@@ -193,7 +214,7 @@ Pending
 
 <hr class="talk-divider">
 
-### 🗓️ 12 December 2025  
+### 🗓️ 12 December 2025  | 15:00 CET, Presential and Online
 <div class="speaker-line">
   <strong>Speaker:</strong> David Dalmazzo <em>(Universitat Pompeu Fabra)</em>
   <a href="http://dazzid.net/" class="link-card small">🌐 Website</a>
@@ -209,7 +230,7 @@ Pending
 </div>
 <hr class="talk-divider">
 
-### 🗓️ 05 December 2025  
+### 🗓️ 05 December 2025  | 15:00 CET, Online
 <div class="speaker-line">
   <strong>Speaker:</strong> Peter Peter Van Kranenburg <em>(Utrecht University)</em>
   <a href="https://nl.linkedin.com/in/pvankranenburg" class="link-card small">🔗 LinkedIn</a>
@@ -224,7 +245,7 @@ Pending
 </div>
 <hr class="talk-divider">
 
-### 🗓️ 28 November 2025  
+### 🗓️ 28 November 2025  | 15:00 CET, Online
 <div class="speaker-line">
   <strong>Speaker:</strong> Christof Weiß <em>(Universität Würzburg)</em>
   <a href="https://www.christofweiss.com/" class="link-card small">🌐 Website</a>
@@ -240,7 +261,7 @@ Pending
 </div>
 <hr class="talk-divider">
 
-### 🗓️ 7 November 2025  
+### 🗓️ 7 November 2025  | 15:00 CET, Online
 <div class="speaker-line">
   <strong>Speaker:</strong> Mark Gotham <em>(King's College London)</em>
   <a href="https://markgotham.github.io/" class="link-card small">🌐 Website</a>
@@ -260,7 +281,7 @@ Pending
 
 <hr class="talk-divider">
 
-### 🗓️ 18 July 2025  
+### 🗓️ 18 July 2025  | 15:00 CET, Online
 <div class="speaker-line">
   <strong>Speaker:</strong> Yash Bhake <em>(IIT Bombay)</em>
   <a href="https://www.linkedin.com/in/yashbhake/" class="link-card small">🔗 LinkedIn</a>
@@ -285,7 +306,7 @@ Pending
 
 <hr class="talk-divider">
 
-### 🗓️ 6 June 2025  
+### 🗓️ 6 June 2025  | 15:00 CET, Presential and Online
 <div class="speaker-line">
   <strong>Speaker:</strong> Marius Miron <em>(Earth Species Project)</em>
   <a href="https://es.linkedin.com/in/marius-miron-9473233" class="link-card small">🔗 LinkedIn</a>
@@ -309,7 +330,7 @@ Pending
 
 <hr class="talk-divider">
 
-### 🗓️ 23 May 2025  
+### 🗓️ 23 May 2025  | 15:00 CET, Online
 <div class="speaker-line">
   <strong>Speaker:</strong> Rafael Caro Repetto <em>(Institute of Digital Sciences Austria)</em>
   <a href="https://www.linkedin.com/in/rafaelcarorepetto" class="link-card small">🔗 LinkedIn</a>
