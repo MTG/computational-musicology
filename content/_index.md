@@ -50,7 +50,7 @@ We meet monthly for seminars in which **invited speakers** share their latest wo
 ### 🗓️ IAM Sub-series | 30 April 2026 | 15:00 CET, Presential and Online
 <div class="speaker-line">
   <strong>Speaker:</strong> Dr. T.K. Saroja <em> Faculty IIIT Hyderabad, Online Professor Aria University, CA</em>
-  <a href="pending" class="link-card small">🌐 Website</a>
+  <a href="https://www.linkedin.com/in/sarojatk?utm_source=share_via&utm_content=profile&utm_medium=member_android" class="link-card small">🌐 Website</a>
 </div>
 
 **Title:** *Concepts to Compositions: Mathematical Shaping of Original Indian Classical Pieces*
