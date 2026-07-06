@@ -28,6 +28,45 @@ We meet monthly for seminars in which **invited speakers** share their latest wo
 
 <h1 style="text-align:center">Upcoming Events</h1>
 
+
+### 🗓️ 10 June 2026  | 15:00 CET, Online
+<div class="speaker-line">
+  <strong>Speaker:</strong> Roger B. Dannenberg <em>Carnegie Mellon University</em>
+  <a href="https://www.cs.cmu.edu/~rbd/" class="link-card small">🌐 Website</a>
+  <a href="https://scholar.google.com/citations?user=whacJzwAAAAJ&hl=en" class="link-card small">🎓 Scholar</a>
+</div>
+
+**Title:** *Score Following and Alignment as Optimal Partitioning*
+
+<details>
+  <summary><b>📄 Abstract</b></summary>
+  <p class="abstract">
+      Score Following is the problem of matching a live music performance to a symbolic score, a problem that has been studied for over 40 years. Score Following is the online version of Score Alignment, the offline problem where there is access to the full performance. I will describe a new approach to both based on partitioning and dynamic programming. Music alignment problems are similar to many sequence alignment problems found in speech recognition, computational biology and other fields. The main difference is that traditional sequence alignment assumes that sequences are totally ordered, while in polyphonic music, there are "chords" where the order of performed notes is arbitrary, giving a partial order. Most score followers search for the best assignment of each performed note to a score position (chord), while our new partitioning approach searches for the best placement of boundaries between performed notes to maximize the correspondence between the resulting partitions and chords. In addition to some formal evaluation, I will present excerpts of Felicità, a chamber opera performed with Accomplice, a new computer accompaniment system with keyboard input.
+  </p>
+</details>
+
+<hr class="talk-divider">
+    
+### 🗓️ 17 June 2026  | 15:00 CET, Online
+<div class="speaker-line">
+  <strong>Speaker:</strong> Dasaem Jeong <em>Sogang University</em>
+  <a href="https://jdasam.github.io/" class="link-card small">🌐 Website</a>
+  <a href="https://scholar.google.com/citations?user=yM24uskAAAAJ&hl=ko" class="link-card small">🎓 Scholar</a>
+</div>
+
+<!--**Title:** *Score Following and Alignment as Optimal Partitioning*
+
+<details>
+  <summary><b>📄 Abstract</b></summary>
+  <p class="abstract">
+      Score Following is the problem of matching a live music performance to a symbolic score, a problem that has been studied for over 40 years. Score Following is the online version of Score Alignment, the offline problem where there is access to the full performance. I will describe a new approach to both based on partitioning and dynamic programming. Music alignment problems are similar to many sequence alignment problems found in speech recognition, computational biology and other fields. The main difference is that traditional sequence alignment assumes that sequences are totally ordered, while in polyphonic music, there are "chords" where the order of performed notes is arbitrary, giving a partial order. Most score followers search for the best assignment of each performed note to a score position (chord), while our new partitioning approach searches for the best placement of boundaries between performed notes to maximize the correspondence between the resulting partitions and chords. In addition to some formal evaluation, I will present excerpts of Felicità, a chamber opera performed with Accomplice, a new computer accompaniment system with keyboard input.
+  </p>
+</details>-->
+
+---
+
+<h1 style="text-align:center">Past Events</h1>
+
 ### 🗓️ 29 April 2026  | 12:00 CET, Presential and Online
 <div class="speaker-line">
   <strong>Speaker:</strong> Cynthia C. S. Liem <em>Multimedia Computing Group, Delft University of Technology</em>
@@ -109,10 +148,7 @@ Pending
   </p>
 </details>
 
-
----
-
-<h1 style="text-align:center">Past Events</h1>
+<hr class="talk-divider">
 
 ### 🗓️ 20 April 2026 | 12:00 CET, Presential and Online
 <div class="speaker-line">
