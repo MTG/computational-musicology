@@ -29,7 +29,7 @@ We meet monthly for seminars in which **invited speakers** share their latest wo
 <h1 style="text-align:center">Upcoming Events</h1>
 
 
-### 🗓️ 10 June 2026  | 15:00 CET, Online
+### 🗓️ 10 July 2026  | 15:00 CET, Online
 <div class="speaker-line">
   <strong>Speaker:</strong> Roger B. Dannenberg <em>Carnegie Mellon University</em>
   <a href="https://www.cs.cmu.edu/~rbd/" class="link-card small">🌐 Website</a>
@@ -47,7 +47,7 @@ We meet monthly for seminars in which **invited speakers** share their latest wo
 
 <hr class="talk-divider">
     
-### 🗓️ 17 June 2026  | 15:00 CET, Online
+### 🗓️ 17 July 2026  | 15:00 CET, Online
 <div class="speaker-line">
   <strong>Speaker:</strong> Dasaem Jeong <em>Sogang University</em>
   <a href="https://jdasam.github.io/" class="link-card small">🌐 Website</a>
@@ -67,26 +67,44 @@ We meet monthly for seminars in which **invited speakers** share their latest wo
 
 <h1 style="text-align:center">Past Events</h1>
 
-### 🗓️ 29 April 2026  | 12:00 CET, Presential and Online
+
+    
+### 🗓️ IAM Sub-series | 29 May 2026 | 15:00 CET, Online
 <div class="speaker-line">
-  <strong>Speaker:</strong> Cynthia C. S. Liem <em>Multimedia Computing Group, Delft University of Technology</em>
-  <a href="https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/multimedia-computing/people/cynthia-liem" class="link-card small">🌐 Website</a>
-  <a href="https://scholar.google.com/citations?user=BFhUNNEAAAAJ&hl=en" class="link-card small">🎓 Scholar</a>
+  <strong>Speaker:</strong> Gowriprasad R <em> IIT Madras</em>
+  <a href="https://scholar.google.com/citations?user=ZWMSpYAAAAAJ&hl=en&oi=ao" class="link-card small">🌐 Scholar</a>
 </div>
 
-**Title:** *Cultural perspectives on 'working as intended'*
-
-**Location:** *UPF Poble Nou Campus. Carrer de Roc Boronat, 138, Sant Martí, 08018 Barcelona. Room 55.410.*
+**Title:** *Towards a Common Stroke Representation: Unsupervised Clustering of Indian Percussion Strokes*
 
 <details>
   <summary><b>📄 Abstract</b></summary>
   <p class="abstract">
-    In a society in which digital technology has become a critical component, it becomes increasingly important to be aware of ways in which the integration of technology may have consequences to the way in which societal challenges are perceived and understood. In this talk, I will reflect on this, wearing my different hats as a computer scientist, educator, musician, inter- and transdisciplinary researcher, and a recent public figure in AI policy and media commentaries. Through multiple examples, ranging from MIR and the cultural sector to recent cases of algorithmic discrimination, I will illustrate methodological and conceptual points of friction between what a technologist may usually optimize for, and what may be needed in practice. Based on this, I will emphasize the explicit need for a holistic view on our professional responsibility as digital experts.
+Pending 
+
   </p>
 </details>
 
 <hr class="talk-divider">
-    
+
+
+### 🗓️ IAM Sub-series | 15 May 2026 | 16:00 CET, Online
+<div class="speaker-line">
+  <strong>Speaker:</strong> Dr. Raghavasimhan Sankaranarayanan <em> Georgia Tech</em>
+  <a href="https://scholar.google.com/citations?hl=en&user=cyfa9IIAAAAJ" class="link-card small">🌐 Scholar</a>
+</div>
+
+**Title:** *Application of Robotic Musicianship and Artificial Intelligence in South Indian Classical Music*
+
+<details>
+  <summary><b>📄 Abstract</b></summary>
+  <p class="abstract">
+Pending
+
+  </p>
+</details>
+
+<hr class="talk-divider">
 
 ### 🗓️ IAM Sub-series | 30 April 2026 | 15:00 CET, Presential and Online
 <div class="speaker-line">
@@ -114,42 +132,26 @@ Through analytical discussion and live musical demonstrations, the lecture aims 
 
 <hr class="talk-divider">
 
-### 🗓️ IAM Sub-series | 15 May 2026 | 16:00 CET, Online
+### 🗓️ 29 April 2026  | 12:00 CET, Presential and Online
 <div class="speaker-line">
-  <strong>Speaker:</strong> Dr. Raghavasimhan Sankaranarayanan <em> Georgia Tech</em>
-  <a href="https://scholar.google.com/citations?hl=en&user=cyfa9IIAAAAJ" class="link-card small">🌐 Scholar</a>
+  <strong>Speaker:</strong> Cynthia C. S. Liem <em>Multimedia Computing Group, Delft University of Technology</em>
+  <a href="https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/multimedia-computing/people/cynthia-liem" class="link-card small">🌐 Website</a>
+  <a href="https://scholar.google.com/citations?user=BFhUNNEAAAAJ&hl=en" class="link-card small">🎓 Scholar</a>
 </div>
 
-**Title:** *Application of Robotic Musicianship and Artificial Intelligence in South Indian Classical Music*
+**Title:** *Cultural perspectives on 'working as intended'*
+
+**Location:** *UPF Poble Nou Campus. Carrer de Roc Boronat, 138, Sant Martí, 08018 Barcelona. Room 55.410.*
 
 <details>
   <summary><b>📄 Abstract</b></summary>
   <p class="abstract">
-Pending
-
+    In a society in which digital technology has become a critical component, it becomes increasingly important to be aware of ways in which the integration of technology may have consequences to the way in which societal challenges are perceived and understood. In this talk, I will reflect on this, wearing my different hats as a computer scientist, educator, musician, inter- and transdisciplinary researcher, and a recent public figure in AI policy and media commentaries. Through multiple examples, ranging from MIR and the cultural sector to recent cases of algorithmic discrimination, I will illustrate methodological and conceptual points of friction between what a technologist may usually optimize for, and what may be needed in practice. Based on this, I will emphasize the explicit need for a holistic view on our professional responsibility as digital experts.
   </p>
 </details>
 
 <hr class="talk-divider">
     
-### 🗓️ IAM Sub-series | 29 May 2026 | 15:00 CET, Online
-<div class="speaker-line">
-  <strong>Speaker:</strong> Gowriprasad R <em> IIT Madras</em>
-  <a href="https://scholar.google.com/citations?user=ZWMSpYAAAAAJ&hl=en&oi=ao" class="link-card small">🌐 Scholar</a>
-</div>
-
-**Title:** *Towards a Common Stroke Representation: Unsupervised Clustering of Indian Percussion Strokes*
-
-<details>
-  <summary><b>📄 Abstract</b></summary>
-  <p class="abstract">
-Pending 
-
-  </p>
-</details>
-
-<hr class="talk-divider">
-
 ### 🗓️ 20 April 2026 | 12:00 CET, Presential and Online
 <div class="speaker-line">
   <strong>Speaker:</strong> Nick Bryan-Kinns <em>University of the Arts London</em>
