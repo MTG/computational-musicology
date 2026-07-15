@@ -29,6 +29,34 @@ We meet monthly for seminars in which **invited speakers** share their latest wo
 <h1 style="text-align:center">Upcoming Events</h1>
 
 
+
+    
+### 🗓️ 17 July 2026  | 15:00 CET, Online
+<div class="speaker-line">
+  <strong>Speaker:</strong> Dasaem Jeong <em>Sogang University</em>
+  <a href="https://jdasam.github.io/" class="link-card small">🌐 Website</a>
+  <a href="https://scholar.google.com/citations?user=yM24uskAAAAJ&hl=ko" class="link-card small">🎓 Scholar</a>
+</div>
+
+**Title:** *Investigating Musicological Questions with Deep Learning*
+
+<details>
+  <summary><b>📄 Abstract</b></summary>
+  <p class="abstract">
+  Despite its success across music information retrieval tasks, deep learning has played a relatively limited role in computational musicology, partly due to concerns about interpretability. As a result, it is often used to automate analytical preprocessing, such as transcription and feature extraction, rather than to investigate musicological questions directly. In this talk, I present an alternative approach: designing deep learning models and experiments around specific musicological questions.
+  I illustrate this approach with four studies from my research group:
+  1) Can a model with no knowledge of tori rediscover it from 700 hours of field recordings?
+  2) What defines a pansori mode: scale structure, microtonal ornaments (sigimsae), or vocal timbre?
+  3) Can continuous pitch contours be represented as a sequence of discrete, learned melodic tokens?
+  4) How many years behind US popular music trends was Korean popular music, and how has this gap changed over the decades? 
+  I hope these examples serve as a starting point for thinking about what deep learning can offer musicology beyond automating human annotation.
+  </p>
+</details>
+
+---
+
+<h1 style="text-align:center">Past Events</h1>
+
 ### 🗓️ 10 July 2026  | 15:00 CET, Online
 <div class="speaker-line">
   <strong>Speaker:</strong> Roger B. Dannenberg <em>Carnegie Mellon University</em>
@@ -46,28 +74,6 @@ We meet monthly for seminars in which **invited speakers** share their latest wo
 </details>
 
 <hr class="talk-divider">
-    
-### 🗓️ 17 July 2026  | 15:00 CET, Online
-<div class="speaker-line">
-  <strong>Speaker:</strong> Dasaem Jeong <em>Sogang University</em>
-  <a href="https://jdasam.github.io/" class="link-card small">🌐 Website</a>
-  <a href="https://scholar.google.com/citations?user=yM24uskAAAAJ&hl=ko" class="link-card small">🎓 Scholar</a>
-</div>
-
-<!--**Title:** *Score Following and Alignment as Optimal Partitioning*
-
-<details>
-  <summary><b>📄 Abstract</b></summary>
-  <p class="abstract">
-      Score Following is the problem of matching a live music performance to a symbolic score, a problem that has been studied for over 40 years. Score Following is the online version of Score Alignment, the offline problem where there is access to the full performance. I will describe a new approach to both based on partitioning and dynamic programming. Music alignment problems are similar to many sequence alignment problems found in speech recognition, computational biology and other fields. The main difference is that traditional sequence alignment assumes that sequences are totally ordered, while in polyphonic music, there are "chords" where the order of performed notes is arbitrary, giving a partial order. Most score followers search for the best assignment of each performed note to a score position (chord), while our new partitioning approach searches for the best placement of boundaries between performed notes to maximize the correspondence between the resulting partitions and chords. In addition to some formal evaluation, I will present excerpts of Felicità, a chamber opera performed with Accomplice, a new computer accompaniment system with keyboard input.
-  </p>
-</details>-->
-
----
-
-<h1 style="text-align:center">Past Events</h1>
-
-
     
 ### 🗓️ IAM Sub-series | 29 May 2026 | 15:00 CET, Online
 <div class="speaker-line">
